@@ -4,6 +4,8 @@ description: ''
 file: /courses/6-004-computation-structures-spring-2017/5e562857713f86fcfd953ef842812ff7_UDow47-q5KI.pdf
 file_size: 26596
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

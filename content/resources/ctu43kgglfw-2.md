@@ -4,6 +4,8 @@ description: ''
 file: /courses/6-004-computation-structures-spring-2017/ebfd0564a52955ae8bffb612d3d20b65_cTU43KgGLFw.vtt
 file_size: 8269
 file_type: application/x-subrip
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

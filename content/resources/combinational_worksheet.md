@@ -4,6 +4,8 @@ description: 'Resource:'
 file: /courses/6-004-computation-structures-spring-2017/a6ebd5243315913900601c535cdb7a52_combinational_worksheet.pdf
 file_size: 594647
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

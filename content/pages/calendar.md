@@ -2,6 +2,8 @@
 content_type: page
 description: This page provides an overview of the class schedule for the MIT course
   6.004 Computation Structure of Spring, 2017.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar

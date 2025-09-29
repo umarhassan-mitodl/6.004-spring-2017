@@ -4,6 +4,8 @@ description: ''
 file: /courses/6-004-computation-structures-spring-2017/d8873d27c2a81edbe0a5a2ad1f8a0b72_v12-th.jpg
 file_size: 32206
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

@@ -4,6 +4,8 @@ description: 'Resource:'
 file: /courses/6-004-computation-structures-spring-2017/7f51703034dafcfc85cd4300d5792e64_compilation_worksheet.pdf
 file_size: 171893
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

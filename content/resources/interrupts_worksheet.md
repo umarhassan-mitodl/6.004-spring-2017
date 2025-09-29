@@ -4,6 +4,8 @@ description: 'Resource:'
 file: /courses/6-004-computation-structures-spring-2017/7dcfdf355caa19e6003d6d7960039d13_interrupts_worksheet.pdf
 file_size: 304255
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

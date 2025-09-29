@@ -28,7 +28,7 @@
     "website": "6-004-computation-structures-spring-2017"
   },
   "course_title": "Computation Structures",
-  "hide_download": false,
+  "hide_download": true,
   "mit_learn_topics": [],
   "course_description": "This course introduces architecture of digital systems, emphasizing structural principles common to a wide range of technologies. It covers the topics including multilevel implementation strategies, definition of new primitives (e.g., gates, instructions, procedures, processes) and their mechanization using lower-level elements. It also includes analysis of potential concurrency, precedence constraints and performance measures, pipelined and multidimensional systems, instruction set design issues and architectural support for contemporary software structures.\n",
   "department_numbers": [
@@ -40,6 +40,7 @@
     "content": "4d1b350c-3ef4-fdca-cfc7-8d7ae1d1661f",
     "website": "6-004-computation-structures-spring-2017"
   },
+  "hide_download_original": false,
   "learning_resource_types": [
     "Lecture Videos",
     "Programming Assignments with Examples",
