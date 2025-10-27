@@ -37,13 +37,13 @@ View by chapter
 
 ### Prerequisites
 
-- [*8.02 Physics II: Electricity and Magnetism*](https://ocw-studio.odl.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007)
+- [*8.02 Physics II: Electricity and Magnetism*](/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007)
 - Students should feel comfortable using computers. A rudimentary knowledge of programming language concepts and electrical fundamentals is assumed.
 
 ### Requirements Satisfied
 
-- 6.004 can be applied toward a degree in [Electrical Science and Engineering](https://www.eecs.mit.edu/academics-admissions/undergraduate-programs/course-6-1-electrical-science-and-engineering), but is not required.
-- 6.004 can be applied toward a degree in [Electrical Engineering and Computer Science](https://www.eecs.mit.edu/academics-admissions/undergraduate-programs/course-6-2-electrical-eng-computer-science), but is not required.
+- 6.004 can be applied toward a degree in {{% resource_link "a6e49a73-dfd0-4591-9acb-d040ae1cc3ce" "Electrical Science and Engineering" %}}, but is not required.
+- 6.004 can be applied toward a degree in {{% resource_link "df5d4dd4-5efe-4ded-b198-f9c2cf8c73d7" "Electrical Engineering and Computer Science" %}}, but is not required.
 
 ### Offered
 
